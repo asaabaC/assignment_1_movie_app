@@ -33,7 +33,7 @@ class _SplashScreenState extends State<SplashScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image.asset(
-                'assets/logo.png', // Replace with your actual logo path
+                'assets/clapperboard-film-logo-icon-design-template-vector-isolated-png_236642.jpg', 
                 height: 120,
               ),
               SizedBox(height: 20),
